@@ -6,7 +6,7 @@ import tesla from './tesla.png'
 import logo from './logo.svg'
 import OnlyNet from './OnlyNet.jpg'
 import secondlogo from './secondlogo.jpg'
-import Ravenna from './Ravenna.jpg'
+import Ravenna from './ravenna.jpg'
 
 export {
     secondlogo,
