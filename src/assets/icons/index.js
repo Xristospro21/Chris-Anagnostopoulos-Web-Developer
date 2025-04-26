@@ -32,7 +32,7 @@ import php from './php.svg'
 import linux from './linux.svg'
 import Skoufos from './skoufos.png'
 import Skaftouros from './skaftouros.svg'
-import Riven from './riven.png'
+import Riven from './Riven.png'
 import BBC from './BBC.png'
 
 
